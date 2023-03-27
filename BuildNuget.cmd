@@ -1,1 +1,0 @@
-.\nuget\nuget.exe pack Episerver.Labs.Cognitive.csproj
